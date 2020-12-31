@@ -1,9 +1,13 @@
 # trinat-vs2-2020
 
-Leistungsüberprüfung Verteilte Systeme 2 (HS2020)- Abgabe der individuellen Aufgaben
+Leistungsüberprüfung Verteilte Systeme 2 (HS2020)- Abgabe der individuellen Aufgaben von:
+
+<br>
 
 Studierende: Gabin PRATX
-Promotion: Descartes, 
+
+Promotion: Descartes 
+
 Studiengang: Mechatronik Trinational
 
 <br>
