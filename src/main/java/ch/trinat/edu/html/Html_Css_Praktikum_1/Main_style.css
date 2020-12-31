@@ -1,0 +1,41 @@
+.title {
+  background-color: #9CD7E9;
+  color: #011B23;
+  padding: 20px 40px 40px 20px;
+  font-size: 65px;
+}
+h2 {
+  background-color: #86B404;
+  color: #FFFFFF;
+  padding: 20px 20px 20px 20px;
+  font-size: 40px;
+}
+h3 {
+  background-color: #EFF7FA;
+  color: #000000;
+  padding: 20px 20px 20px 20px;
+  font-size: 25px;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+}
+.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption{
+  font-size: 20px;
+  padding: 20px 20px 20px 85px;
+}
+p {
+  font-size: 20px;
+  padding-left: 20px;
+}
+a {
+  font-size: 20px;
+  padding-left: 20px;
+}
